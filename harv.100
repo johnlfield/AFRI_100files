@@ -121,7 +121,7 @@ CANE    sugarcane harvest
 0.00              'AGLREM'  
 0.10              'BGLREM' 
 0.0               'FLGHRV'
-0.99             'RMVSTR' 99% of straw removed
+0.99              'RMVSTR' 99% of straw removed
 0.0               'REMWSD'
 0.0               'HIBG'
 GCANE    green sugarcane harvest #check
@@ -144,5 +144,19 @@ PINE     pineapple harvest
 1.0               'FLGHRV'
 0.0               'RMVSTR'
 0.2               'REMWSD'
+0.0               'HIBG'
+SGH      switchgrass (Hawbecker Farm from Del Grosso, 72% AG live harvested, 8% standing dead, 5% surface litter, remaining 15% AG live remains; minimal root disturbance)
+0.15              'AGLREM'    
+0.9               'BGLREM'    
+0.0               'FLGHRV'    
+0.85              'RMVSTR'    
+0.65              'REMWSD'    
+0.0               'HIBG'
+SGTH     switchgrass field trial harvest (all AG biomass removed except for 2% representing stubble, assumed to stay standing, minimal root disturbance as per Del Grosso's Hawbecker Farm HARV SGH)
+0.0               'AGLREM'    
+0.9               'BGLREM'    
+0.0               'FLGHRV'    
+0.98              'RMVSTR'    
+0.0               'REMWSD'    
 0.0               'HIBG'
 

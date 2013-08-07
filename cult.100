@@ -310,4 +310,15 @@ IK    Offset and Tandem Disks modified for 100% kill
 6.67              'CLTEFF(2)' # century 3.837
 1.00              'CLTEFF(3)'
 6.67              'CLTEFF(4)'
-
+CSG    switchgrass post-harvest deadfall (from Del Grosso for Hawbecker Farm; when used with HARV SGH 72% of AG live harvested, 6% standing dead, 22 % surface litter) 
+1.00              'CULTRA(1)'
+0.00              'CULTRA(2)'
+0.0               'CULTRA(3)'
+0.75              'CULTRA(4)'
+0.0               'CULTRA(5)'
+0.0               'CULTRA(6)'
+0.0               'CULTRA(7)'
+1                 'CLTEFF(1)'
+1                 'CLTEFF(2)'
+1                 'CLTEFF(3)'
+1                 'CLTEFF(4)'
