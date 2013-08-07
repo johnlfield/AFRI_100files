@@ -121,7 +121,7 @@ CANE    sugarcane harvest
 0.00              'AGLREM'  
 0.10              'BGLREM' 
 0.0               'FLGHRV'
-0.999             'RMVSTR' 99% of straw removed
+0.99             'RMVSTR' 99% of straw removed
 0.0               'REMWSD'
 0.0               'HIBG'
 GCANE    green sugarcane harvest #check
@@ -131,7 +131,7 @@ GCANE    green sugarcane harvest #check
 0.85              'RMVSTR' 85% of straw removed
 0.0               'REMWSD'
 0.0               'HIBG'
-H90     Hay   removes 81% of the crop
+H90     Hay   removes 90% of the crop
 0.05              'AGLREM'
 0.9               'BGLREM'
 0.0               'FLGHRV'
@@ -145,3 +145,4 @@ PINE     pineapple harvest
 0.0               'RMVSTR'
 0.2               'REMWSD'
 0.0               'HIBG'
+
