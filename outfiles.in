@@ -11,7 +11,7 @@ Output (0/1)  file_name         description
 0             co2.out           # daily CO2 concentrations by layer
 0             wflux.out         # daily water flux through the bottom of soil layers
 0             mresp.out         # daily maintenance respiration
-1             year_summary.out  # yearly trace gas fluxes
+0             year_summary.out  # yearly trace gas fluxes
 0             livec.out         # daily live carbon
 0             deadc.out         # daily dead carbon
 0             soilc.out         # daily soil carbon
@@ -21,4 +21,4 @@ Output (0/1)  file_name         description
 0             dN2Olyr.out       # daily denitrification N2O fluxes by layer
 0             gresp.out         # daily growth respiration
 0             dels.out          # daily delta 13C/14C values
-1             dc_sip.csv        # daily evap, tran, resp, system C, and NPP
+0             dc_sip.csv        # daily evap, tran, resp, system C, and NPP

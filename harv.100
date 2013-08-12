@@ -145,14 +145,14 @@ PINE     pineapple harvest
 0.0               'RMVSTR'
 0.2               'REMWSD'
 0.0               'HIBG'
-SGH      switchgrass (Hawbecker Farm from Del Grosso, 72% AG live harvested, 8% standing dead, 5% surface litter, remaining 15% AG live remains; minimal root disturbance)
+SGH      switchgrass (Hawbecker Farm from Del Grosso, 72% AG live harvested)
 0.15              'AGLREM'    
 0.9               'BGLREM'    
 0.0               'FLGHRV'    
 0.85              'RMVSTR'    
 0.65              'REMWSD'    
 0.0               'HIBG'
-SGTH     switchgrass field trial harvest (all AG biomass removed except for 2% representing stubble, assumed to stay standing, minimal root disturbance as per Del Grosso's Hawbecker Farm HARV SGH)
+SGTH     switchgrass field trial harvest (all AG biomass removed but 2% stubble)
 0.0               'AGLREM'    
 0.9               'BGLREM'    
 0.0               'FLGHRV'    
