@@ -20,7 +20,7 @@ Year Month Option
 3            Repeats # years
 1830         Output starting year
 6           Output month
-1.0        Output interval
+10        Output interval
 F             Weather choice
 Milan.wth
    1   61  CULT
